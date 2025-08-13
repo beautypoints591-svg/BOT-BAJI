@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "inf",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "𝐊𝐨𝐬𝐚𝐫 𝐁𝐚𝐥𝐨𝐜𝐡", //don't change the credits please
+	credits: "𝐊𝐨𝐬𝐚𝐫 𝐁𝐚𝐥𝐨𝐜𝐡",
 	description: "Admin and Bot info.",
 	commandCategory: "info",
 	cooldowns: 1,
@@ -38,7 +38,7 @@ var callback = () => api.sendMessage({body:`🌹𝙰𝙳𝙼𝙸𝙽 𝙰𝙽�
 ✅𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 𝗨𝗦𝗘𝗥𝗡𝗔𝗠𝗘👉 @arunkumar_031 \n\n  ====𝗧𝗼 𝗹𝗲𝗮𝗿𝗻 𝗛𝗼𝘄 𝘁𝗼 𝗖𝗿𝗲𝗮𝘁𝗲 𝗔 𝗯𝗼𝘁 === 𝗩𝗶𝘀𝗶𝘁 𝗔𝗻𝗱 𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 𝗧𝗼 𝗠𝘆 𝗖𝗵𝗮𝗻𝗻𝗲𝗹✅ 🗡 https://www.youtube.com/@mirrykal
 ✧══════•❁❀❁•══════✧
 
-🌸𝗕𝗼𝘁 𝗣𝗿𝗲𝗳𝗶𝘅🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
+🌸𝗕𝗼𝘁 𝗣𝗿𝗲𝗳𝗶𝘅🌸☞︎︎︎+☜︎︎︎✰ ${global.config.PREFIX}
 
 🥳UPTIME🥳
 
