@@ -15,8 +15,8 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
   if (event.body.indexOf("ADMIN")==0 || event.body.indexOf("Admin")==0 || event.body.indexOf("/Admin")==0 || event.body.indexOf("#admin")==0) {
     var msg = {
         body: "🫅 𝐎𝐖𝐍𝐄𝐑 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 🫅",
-        attachment: 
-fs.createReadStream(__dirname + `/noprefix/profile.png`)
+        attachment: "𝐊𝐨𝐬𝐚𝐫 𝐁𝐚𝐥𝐨𝐜𝐡"
+fs.createReadStream(__dirname + `https://www.facebook.com/profile.php?id=61577724436283`)
       }
       api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("🫅", event.messageID, (err) => {}, true)
