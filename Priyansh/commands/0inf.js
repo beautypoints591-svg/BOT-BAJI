@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "inf",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "𝙺𝚘𝚜𝚊𝚛 𝙱𝚊𝚕𝚘𝚌𝚑", //don't change the credits please
+	credits: "𝐊𝐨𝐬𝐚𝐫 𝐁𝐚𝐥𝐨𝐜𝐡", //don't change the credits please
 	description: "Admin and Bot info.",
 	commandCategory: "info",
 	cooldowns: 1,
